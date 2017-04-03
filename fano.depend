@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484237072 source:c:\users\Юыху\desktop\projects\fano\main.cpp
+	<iostream>
+	<fstream>
+	<list>
+
